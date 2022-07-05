@@ -38,6 +38,7 @@ namespace Foreach
 
             int[] values = new[] { 1, 24, 5, 676, 7, 88, 8 };
             Array.Sort(values);
+            Array.Reverse(values);
 
             for(int i = 0; i < values.Length; i++)
             {
