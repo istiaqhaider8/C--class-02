@@ -1,0 +1,7 @@
+C:\Users\Istiaq\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe.config
+C:\Users\Istiaq\source\repos\Foreach\Foreach\bin\Debug\Foreach.exe
+C:\Users\Istiaq\source\repos\Foreach\Foreach\bin\Debug\Foreach.pdb
+C:\Users\Istiaq\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.AssemblyReference.cache
+C:\Users\Istiaq\source\repos\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Istiaq\source\repos\Foreach\Foreach\obj\Debug\Foreach.exe
+C:\Users\Istiaq\source\repos\Foreach\Foreach\obj\Debug\Foreach.pdb
