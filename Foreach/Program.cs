@@ -12,7 +12,7 @@ namespace Foreach
         {
             //Console.Write("Input value: ");
             //int input =  Convert.ToInt32(Console.ReadLine());
-            
+
             //int[] numbers = new int[input];
 
             //Console.WriteLine("Please Enter your User Input: ");
@@ -37,12 +37,24 @@ namespace Foreach
 
 
             int[] values = new[] { 1, 24, 5, 676, 7, 88, 8 };
-            Array.Sort(values);
-            Array.Reverse(values);
+            //Array.Sort(values);
+            //Array.Reverse(values);
 
-            for(int i = 0; i < values.Length; i++)
+            String[] animales = { "Elephant", "Cat", "Mouse" };
+            //Array.Sort(animales);
+            //Array.Reverse(animales);
+
+
+            //for (int i = 0; i < animales.Length; i++)
+            //{
+            //    Console.WriteLine(animales[i]);
+            //}
+            //Console.ReadKey();
+
+
+            foreach(int value in values)
             {
-                Console.WriteLine(values[i]);
+                Console.WriteLine(value);
             }
             Console.ReadKey();
         }
